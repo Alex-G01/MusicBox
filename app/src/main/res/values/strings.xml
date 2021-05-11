@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyMusicBox</string>
+    <string name="music">歌名</string>
+    <string name="singer">歌手</string>
+</resources>
